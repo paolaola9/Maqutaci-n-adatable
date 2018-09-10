@@ -1,0 +1,230 @@
+
+ <div class="boder-box">
+   <h2>Need consulting</h2>
+   <div class=mov>
+     <ul class="square-box1">
+       <li ><a class="links-box" href="#">lorem</a></li>
+     </ul>
+     <ul class="square-box2">
+       <li ><a class="links-box2"href="#">lorem</a></li>
+     </ul>
+ </div>
+ </div>
+</section>
+
+<section>
+	<h4 class="lorem">Lorem Ipsun</h4>
+
+
+	<div class="content-box">
+   <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+
+
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+
+	<div class="content-box">
+	 <a class="content-box234" href="#">
+	 <div  class="content-box23">
+	 </a>
+		<img class="img2"src="img/vaca.jpg" alt="">
+		<div class="text-boxx">
+			<h5 class="text12">Lorem</h5>
+			<a class="photo"href="#">photo</a>
+		</div>
+	</div>
+	</div>
+</div>
+</section>
+
+<section>
+		<img class="img3" src="img/castillo.jpg" alt="">
+
+	<div class="contenedor-box45">
+		<div class="texto34">
+			<h5>Lorem</h5>
+			<div class="text35">
+				<h6>Lorem ipsum </h6>
+				<p class="text16">Squire Platform - land marketplace created and managed by farmer land brokers and made available to sellers of all types, including land brokers, land agents, land auctioneers, and land for sale by owner. Wwe offer affordable listing plans, and your qualifying properties will be listed on our website. We’re very passionate about searching for only the best properties on the market and offering them to our clients. While our agents are working in 50 US states, we also partially cover Canada and northern Mexican states. Our extended team of more than 300 professional, dedicated real estate agents is waiting for a chance to be helpful to your cause, whether it’s a summer rental search in Vermont or a purchase & mortgage of a Nebraskan 3-storey house at the lakeside.  So we’re sure that whatever type of property you’re searching for, we’ll be the agency to get it found, checked and offered for you!org</p>
+
+			</div>
+	<a class="links-box22"href="#">learn more</a>
+		</div>
+
+</div>
+
+</section>
+
+<section>
+	<div class="">
+		<h4 class="lorem">Lorem Ipsun</h4>
+		<p class="phrase1">At Squire Platform we help our customers buy and sell their land</p>
+	</div>
+
+	<div class="padre-box">
+
+		<div class="contender-box">
+			<img class="img214"src="img/lugares.jpg" alt="">
+			<div class="text34">
+				<h4 class="txt1">$1,200,000  |  260 Acres</h4>
+				<p class="txt2">Mineral Point, Iowa County, WI</p>
+				<p>fram</p>
+				<div class="mover">
+				<a class="btn" href="#">details</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="contender-box">
+			<img class="img214"src="img/lugares.jpg" alt="">
+			<div class="text34">
+				<h4 class="txt1">$1,200,000  |  260 Acres</h4>
+				<p class="txt2">Mineral Point, Iowa County, WI</p>
+				<p>fram</p>
+				<div class="mover">
+									<a class="btn" href="#">details</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="contender-box">
+			<img class="img214"src="img/lugares.jpg" alt="">
+			<div class="text34">
+				<h4 class="txt1">$1,200,000  |  260 Acres</h4>
+				<p class="txt2">Mineral Point, Iowa County, WI</p>
+				<p>fram</p>
+				<div class="mover">
+									<a class="btn" href="#">details</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="contender-box">
+			<img class="img214"src="img/lugares.jpg" alt="">
+			<div class="text34">
+				<h4 class="txt1">$1,200,000  |  260 Acres</h4>
+				<p class="txt2">Mineral Point, Iowa County, WI</p>
+				<p>fram</p>
+				<div class="mover">
+									<a class="btn" href="#">details</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="contender-box">
+			<img class="img214"src="img/lugares.jpg" alt="">
+			<div class="text34">
+				<h4 class="txt1">$1,200,000  |  260 Acres</h4>
+				<p class="txt2">Mineral Point, Iowa County, WI</p>
+				<p>fram</p>
+				<div class="mover">
+									<a class="btn" href="#">details</a>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="contender-box">
+			<img class="img214"src="img/lugares.jpg" alt="">
+			<div class="text34">
+				<h4 class="txt1">$1,200,000  |  260 Acres</h4>
+				<p class="txt2">Mineral Point, Iowa County, WI</p>
+				<p>fram</p>
+				<div class="mover">
+									<a class="btn" href="#">details</a>
+				</div>
+			</div>
+		</div>
+
+</div>
+</section>
+
+<section>
+	<div class="background12">
+		<h4>20</h4>
+		<p>People</p>
+	</div>
+
+</section>
+
+
+</body>
+</html>
